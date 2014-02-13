@@ -1,6 +1,6 @@
-en:
-  release_notes:
-    title: "发生说明"
+zh:
+  release_note:
+    title: "发行说明"
     title_plural: "发行说明"
 
     release_note: "发行说明"
