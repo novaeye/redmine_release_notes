@@ -1,23 +1,23 @@
 en:
   release_notes:
-    title: "Release note"
-    title_plural: "Release notes"
+    title: "发生说明"
+    title_plural: "发行说明"
 
-    release_note: "release note"
-    release_note_plural: "release notes"
+    release_note: "发行说明"
+    release_note_plural: "发行说明"
 
-    mark_complete: "Release notes complete for this issue?"
-    cant_set_done_if_no_release_notes: "can't be set to %{value} unless release notes have been written"
+    mark_complete: "完成此问题的发行说明?"
+    cant_set_done_if_no_release_notes: "未编写发行说明, 无法设置为 %{value} ."
 
-    generate: "Generate release notes"
-    generate_title: "Manage release notes for version %{version}"
-    show_closed_versions: "Show closed versions"
+    generate: "生成发行说明"
+    generate_title: "管理版本 %{version} 的发行说明"
+    show_closed_versions: "显示已关闭的版本"
 
-    progress: "Release notes progress"
-    x_issues_in_total: "%{count} issues in total"
-    x_requiring_release_notes: "%{count} requiring release notes"
-    x_done: "%{count} done"
-    x_done_empty: "%{count} with empty release notes"
+    progress: "发行说明进度"
+    x_issues_in_total: "共有 %{count} 个问题"
+    x_requiring_release_notes: "%{count} 个需要发行说明"
+    x_done: "%{count} 个已完成"
+    x_done_empty: "%{count} 个无发行说明"
     x_to_go: "%{count} to go"
     x_not_required: "%{count} not required"
     x_not_required_cf_none:  "%{count} : set as not required"
